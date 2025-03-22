@@ -27,10 +27,15 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+<<<<<<< HEAD
 
         <h1>this is a test aswell</h1>
         <h1>this is testing</h1>
         <h1>this is test3</h1>
+=======
+        <h1>this is testing</h1>
+        <h1>this is test1</h1>
+>>>>>>> test1
         {children}
       </body>
     </html>
